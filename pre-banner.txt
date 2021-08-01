@@ -1,0 +1,3 @@
+# print(' ' + Back.GREEN + ' ' * 20 + Back.WHITE + ' ' * 25 + Back.RED + ' ' * 20 + Fore.RESET + Back.RESET)
+# print(' ' + Back.GREEN + ' ' * 20 + Back.WHITE + ' ' * 8 + Fore.BLACK + 'By Mr.A.N' + ' ' * 8 + Back.RED + ' ' * 20 + Fore.RESET + Back.RESET)
+# print(' ' + Back.GREEN + ' ' * 20 + Back.WHITE + ' ' * 25 + Back.RED + ' ' * 20 + Fore.RESET + Back.RESET, '\n')
