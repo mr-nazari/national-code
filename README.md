@@ -10,6 +10,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install -r requirements.txt
 ```
 
+## Using
+
+You can use `nationalcode.py` separately on your programs.
+
+
 ## Run
 
 ```bash
